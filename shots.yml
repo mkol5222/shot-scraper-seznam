@@ -1,3 +1,6 @@
 - url: https://seznam.cz/
   output: shot.png
   height: 800
+- url: https://denikn.cz/minuta/?ref=minutapo#/?_k=vpurdy
+  output: shot2.png
+  height: 800
